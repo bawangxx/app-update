@@ -16,7 +16,7 @@
       "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "Content of app.msi.sig",
+      "signature": "Content app.msi.sig",
       "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x64.msi.zip"
     }
   }
