@@ -5,7 +5,7 @@
   "platforms": {
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRDUxb1NJdEpzeFJnRzlzMXZGNXNkZkdTMlR6R1ZKQlMxVFFxV1dUUGQxRVAzTmhSTUVsVVZzNStXT25nTmlEaHFkVkluTTQzMHZZVkIvUWJ3TENEa0NhSkp5STIyOUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg2MzAwNDEwCWZpbGU6d2FsbHBhcGVyLmFwcC50YXIuZ3oKQVJ5dXdlVEhjYjZSVnhjSE5ILzhkOVZ0WmlsVFgreDkxZTRlQ2xtS1JsYVRaOTIrbkVNWEhnT3NONUsxYThlT25WRjNTbFhWdWRENStiMEcvZzVLRFE9PQo=",
-      "url": "https://github.com/bawangxx/app-update/releases/download/0.0.2/wallpaper_0.0.2_x64_zh-CN.msi.zip"
+      "url": "https://github.com/bawangxx/app-update/releases/download/0.0.2/wallpaper.app.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "Content of app.tar.gz.sig",
