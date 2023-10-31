@@ -1,6 +1,6 @@
 {
-    "version": "v3.0.2",
-    "notes": "测试更新",
+    "version": "v3.0.1",
+    "notes": "测试更新3.0.1",
     "pub_date": "2020-06-22T19:25:57Z",
     "platforms": {
       "darwin-x86_64": {
@@ -16,8 +16,8 @@
         "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRDUxb1NJdEpzeFNSZWJab3kwcmJHWi9MRVVSSEY5Z2JUN1F1d3NoK28wS0hFYzg3WDl4RkNNQmZ4bDUrOG9RR1pQVVF5bEFuMVBsQ0p5a3dZZkdyQ21yRnFxaWl6aEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk4NzQzMjA4CWZpbGU6QUnphY3pn7PkuJPlrrZfMy4wLjJfeDY0X3poLUNOLm1zaS56aXAKelRSV0RZRkJIQk82a3llLzRoZERhb1ZVQXJrTm9RbXNDMCtqMGhpS3FLMHllUGdvNlhtMkdtNGZibDZGM3p4L244cC9ZY0psUzNUWFVIVEhzdjJLQ2c9PQo=",
-        "url": "https://github.com/bawangxx/app-update/releases/download/aipeiyin/AI._3.0.2_x64_zh-CN.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3YvRlFyNktZbm1PSnZEUEp0cHdjdHNLeW91ZVYvSVV0VzVFMVQrSHhCS3hNYWdlSnRrNnk0QmtnY0QzaElyb0xsbWhuYUU4d2x6U1hHVE5SOVNDMjFQWXRxZk5ZbFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk4NzU0MzM3CWZpbGU6QUnphY3pn7PkuJPlrrZfMy4wLjFfeDY0X3poLUNOLm1zaS56aXAKa2hQNTQ4MXJXdXZUd0Y3WnE3ME9VVDRNRzBRaWlLNFcyaUQ2cUhkUldyaUVIT0hPK2V5Ry8rOC9PK213b0t5V2tOSSt1NmllUWw1UUlCZCtyWVI2QlE9PQo=",
+        "url": "https://github.com/bawangxx/app-update/releases/download/aipeiyin/AI._3.0.1_x64_zh-CN.msi.zip"
       }
     }
   }
