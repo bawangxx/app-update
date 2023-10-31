@@ -1,0 +1,24 @@
+{
+    "version": "v3.0.1",
+    "notes": "Test version",
+    "pub_date": "2020-06-22T19:25:57Z",
+    "platforms": {
+      "darwin-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRDUxb1NJdEpzeFJnRzlzMXZGNXNkZkdTMlR6R1ZKQlMxVFFxV1dUUGQxRVAzTmhSTUVsVVZzNStXT25nTmlEaHFkVkluTTQzMHZZVkIvUWJ3TENEa0NhSkp5STIyOUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg2MzAwNDEwCWZpbGU6d2FsbHBhcGVyLmFwcC50YXIuZ3oKQVJ5dXdlVEhjYjZSVnhjSE5ILzhkOVZ0WmlsVFgreDkxZTRlQ2xtS1JsYVRaOTIrbkVNWEhnT3NONUsxYThlT25WRjNTbFhWdWRENStiMEcvZzVLRFE9PQo=",
+        "url": "https://github.com/bawangxx/app-update/releases/download/0.0.2/wallpaper.app.tar.gz"
+      },
+      "darwin-aarch64": {
+        "signature": "Content of app.tar.gz.sig",
+        "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-aarch64.app.tar.gz"
+      },
+      "linux-x86_64": {
+        "signature": "Content of app.AppImage.tar.gz.sig",
+        "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
+      },
+      "windows-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRDUxb1NJdEpzeGY2VDFsaS9uNzQxWW10bmFPRkM2REJZZzVKNG12am90VXJ1enZBRDlrY2dTaUo3OW1ocU42QzRHUjl4ZzVmZTcydlE2eUx3eU5BN1FQVnQyL3VveFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg2MTQxMTMwCWZpbGU6d2FsbHBhcGVyXzAuMC4yX3g2NF96aC1DTi5tc2kuemlwCm1oZmxoU2pHcnNqRXVaRWROQVhDY3FKOWg4cHlXa0prMmVqTmFjZ2VwN3BVeWl6VlBkM1RicDJEbjVmQ3phZlZRbnFiaVo1RGw4OE94Qm9NQUpvbkRBPT0K",
+        "url": "https://github.com/bawangxx/app-update/releases/download/0.0.2/wallpaper_0.0.2_x64_zh-CN.msi.zip"
+      }
+    }
+  }
+  
