@@ -1,15 +1,14 @@
 {
-    "version": "v3.0.1",
-    "notes": "mac测试更新3.0.1",
-    "pub_date": "2020-06-22T19:25:57Z",
+    "version": "v3.0.2",
+    "notes": "测试更新3.0.2",
     "platforms": {
       "darwin-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3YvRlFyNktZbm1KR0RGdjIvbkpBT2hMaUtKNytrdnB4dmlDK1hBczJFM3ZqR3M0RWZSTUUzZVBYMWVTeWFMUHNScnVtWlpTWkhCaDNBS1BUMzZ2ajVnRFFGV3dFd3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk4NzU3NDYwCWZpbGU6QUnphY3pn7PkuJPlrrYuYXBwLnRhci5nego0ZWlyNWlXZlpEYUhLNkhSdURxcklNSE8vTzdHRldCb2pWWnNscUZpT3hNZzZNRzVaMnRqZ1RhS0NxWE1od29QUC93SHkyVEhzWmt0d1RRM1AzL1BDQT09Cg==",
         "url": "https://github.com/bawangxx/app-update/releases/download/aipeiyin/AI.app.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3YvRlFyNktZbm1PSnZEUEp0cHdjdHNLeW91ZVYvSVV0VzVFMVQrSHhCS3hNYWdlSnRrNnk0QmtnY0QzaElyb0xsbWhuYUU4d2x6U1hHVE5SOVNDMjFQWXRxZk5ZbFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk4NzU0MzM3CWZpbGU6QUnphY3pn7PkuJPlrrZfMy4wLjFfeDY0X3poLUNOLm1zaS56aXAKa2hQNTQ4MXJXdXZUd0Y3WnE3ME9VVDRNRzBRaWlLNFcyaUQ2cUhkUldyaUVIT0hPK2V5Ry8rOC9PK213b0t5V2tOSSt1NmllUWw1UUlCZCtyWVI2QlE9PQo=",
-        "url": "https://github.com/bawangxx/app-update/releases/download/aipeiyin/AI._3.0.1_x64_zh-CN.msi.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTd3YvRlFyNktZbmk0akZuR25XU1VPbjJ2Z0c1TXNsbTNkMDdaY1pMWExsUXV0UlJkZXFEVDdwbENUZUZrQWRMcTc4RmsvQmY4czljQUhBS3daZGFlRlNBZVBuTjBCM0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk4ODA3ODMwCWZpbGU6QUnphY3pn7PkuJPlrrZfMy4wLjJfeDY0X3poLUNOLm1zaS56aXAKRmJ6RnhoNUtrTFpOSHNmb0Y1Ym4rRW12Q2ErUkU1RlhVOGdqNjdJb2RQaXpDODlrU2svTUIxTm41ZGhDNWl4ekNnOXFqcSs1SnlKYUpFUFZERFZjQUE9PQo=",
+        "url": "https://github.com/bawangxx/app-update/releases/download/aipeiyin/AI._3.0.2_x64_zh-CN.msi.zip"
       }
     }
   }
